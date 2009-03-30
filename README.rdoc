@@ -1,0 +1,8 @@
+= Classify Form Helpers
+Rails gem to add default classes to the html output of form helpers. Like f.text_field, f.text_area, f.submit
+
+== Install
+  gem install roym-classify_form_helpers --source http://gems.github.com
+
+== Usage
+  
