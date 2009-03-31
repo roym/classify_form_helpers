@@ -5,4 +5,4 @@ Rails gem to add default classes to the html output of form helpers. Like f.text
   gem install roym-classify_form_helpers --source http://gems.github.com
 
 == Usage
-  
+  Actually you don't have to do anything... The only thing it does is add a class attribute to the html elements, so it get's easy to target your elements for some older browsers
